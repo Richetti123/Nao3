@@ -15,7 +15,7 @@ global.isBaileysFail = false
 
 global.owner = [
   ['56928561853', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
+  ['51931969722', 'NaoBot', true],
   ['56941827124', 'MichiBot', true],
   ['56941827124', 'MichiBot', true],
   ['56941827124', 'MichiBot', true],
@@ -58,16 +58,16 @@ global.prems = ['56928561853'];
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'MichiBot';
-global.author = 'MichiBot';
-global.wm = 'MichiBot';
+global.packname = 'NaoBot';
+global.author = 'NaoBot';
+global.wm = 'NaoBot';
 global.idioma = 'es';
-global.ig = '@ceogeripium.dzn';
-global.etiqueta = '🙂‍↕𝙈𝙞𝙘𝙝𝙞𝘽𝙤𝙩 𝙡𝙤𝙨 𝙞𝙣𝙫𝙤𝙘𝙖 𝙥𝙡𝙖𝙣𝙩𝙖𝙨🙂‍↔*\n*𝘔𝘪𝘤𝘩𝘪 𝘦𝘭 𝘮𝘦𝘫𝘰𝘳 𝘣𝘰𝘵🥇';
-global.emojietiqueta = '☀️✨≋';
-global.titulowm = 'MichiBot';
-global.titulowm2 = `MichiBot`
-global.igfg = 'MichiBot';
+global.ig = '@naoofz';
+global.etiqueta = 'Actívense inútiles! 🤍';
+global.emojietiqueta = '🌘';
+global.titulowm = 'NaoBot';
+global.titulowm2 = `NaoBot`
+global.igfg = 'NaoBot';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -87,12 +87,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nMichiBot`;
-global.gt = 'MichiBot';
-global.mysticbot = 'MichiBot';
-global.channel = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M';
-global.md = 'https://www.instagram.com/ceogeripium.dzn';
-global.mysticbot = 'https://www.instagram.com/ceogeripium.dzn';
+global.wm2 = `${dia} ${fecha}\nNaoBot`;
+global.gt = 'NaoBot';
+global.mysticbot = 'NaoBot';
+global.channel = 'https://www.instagram.com/naoofz';
+global.md = 'https://www.instagram.com/naoofz';
+global.mysticbot = 'https://www.instagram.com/naoofz';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
